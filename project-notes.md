@@ -1,4 +1,4 @@
-# Project Summary
+# Usage
 Campus Event Manager is a project designed to organize campus events, manage schedules, and coordinate event organizers.
 
 # Planned Features
